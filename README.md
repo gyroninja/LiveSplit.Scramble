@@ -1,3 +1,3 @@
-Generates a random 25 move rubiks scramble every run.
+Generates a random state scramble!
 
-If you don't see all 25 moves just make the split window bigger.
+You may need to make your Livesplit window bigger to see the whole thing.
