@@ -1,14 +1,14 @@
 ﻿<Properties StartupItem="LiveSplit.Scramble.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="UI/Components/ScrambleComponent.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UI/Components/Scrambler.cs">
     <Files>
-      <File FileName="UI/Components/ScrambleComponent.cs" Line="61" Column="61" />
-      <File FileName="UI/Components/ScrambleComponentFactory.cs" Line="23" Column="23" />
+      <File FileName="UI/Components/ScrambleComponent.cs" Line="1" Column="1" />
+      <File FileName="UI/Components/ScrambleComponentFactory.cs" Line="1" Column="1" />
       <File FileName="UI/Components/ScrambleComponentSettings.cs" Line="1" Column="1" />
       <File FileName="Properties/AssemblyInfo.cs" Line="1" Column="1" />
       <File FileName="UI/Components/ScrambleTextComponent.cs" Line="1" Column="1" />
-      <File FileName="UI/Components/TextComponentSettings.Designer.cs" Line="46" Column="46" />
-      <File FileName="UI/Components/Scrambler.cs" Line="11" Column="11" />
+      <File FileName="UI/Components/TextComponentSettings.Designer.cs" Line="45" Column="45" />
+      <File FileName="UI/Components/Scrambler.cs" Line="109" Column="109" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

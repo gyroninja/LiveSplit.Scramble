@@ -1,10 +1,18 @@
 ﻿using System;
+using System.Net;
 
 namespace LiveSplit
 {
 	public class Scrambler
 	{
 		public static String scramble() {
+
+			using(WebClient client = new WebClient()) {
+				return client.DownloadString(new Uri("http://gyroninja.net:5251/scramble")).Split(':')[1].Split('\"')[1];
+			}
+		}
+
+		public static String oldScramble() {
 
 			Random gen = new Random();
 
